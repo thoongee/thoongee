@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact
+<a href="mailto:cjina1102@gmail.com">
+  <img
+    src="https://img.shields.io/badge/cjina1102@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+</a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thoongee&show_icons=true&theme=radical)
