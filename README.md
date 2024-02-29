@@ -14,19 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ### Contact
-<a href="mailto:cjina1102@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-</a>
-<a href="https://www.linkedin.com/in/jina-choi-4a266a231/">
-  <img
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
-</a>
-<a href="https://ddoric.tistory.com/">
-  <img
-    src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
-</a>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:cjina1102@gmail.com)
+[![Tistory](https://img.shields.io/badge/Blog-000000?style=plastic&logo=wordpress&logoColor=white)](https://ddoric.tistory.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jina-choi-4a266a231/)
+[![Meetup](https://img.shields.io/badge/Meetup-ED1C40?style=plastic&logo=meetup&logoColor=white)](https://www.meetup.com/members/402407688/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thoongee&show_icons=true)
